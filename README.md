@@ -1,0 +1,3 @@
+```
+node analyze.mjs
+```
